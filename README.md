@@ -1,5 +1,4 @@
-![Dashboard Image](images/Screenshot%202025-11-13%20185940.png)
-
+![Dashboard Image](images/Screenshot%202025-11-14%20022029.png)
 
 
 # Healthcare-Data-Analysis
