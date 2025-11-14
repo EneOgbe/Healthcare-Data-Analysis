@@ -1,3 +1,7 @@
+![Dashboard Image](images/Screenshot%202025-11-13%20185940.png)
+
+
+
 # Healthcare-Data-Analysis
 Interactive Power BI dashboard analyzing hospital performance, patient demographics, and departmental revenue for healthcare decision-making.
 🔍 Project Overview
